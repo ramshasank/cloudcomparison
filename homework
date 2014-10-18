@@ -1,0 +1,36 @@
+	Amazon AWS	Google AppEngin	Microsoft Azure	IBM Smart Business Dev.
+focus	Infrastructure	Platform	Platform	Infrastructure
+Infrastructure and virtualization architecture	IaaS
+OS level running on a Xen hypervisor.	Paas
+Application Container	IaaS, PaaS
+OS level through fabric controller	Iaas websphere
+Platforms	AWS	Google Cloud	Microsoft cloud application.	Softlayer
+Persistent Storage	To persistent data storage you can use one of the 3 alternatives – Simple DB, 
+Simple Storage Service (S3) or Relational Database Service (RDS).	Only non-relational storage is available.	Only non-relational storage is available.	Support for CDP Persistent Storage Manager.
+
+Monitoring	Amazon cloud watch	System status dashboard.	Azure management portal.	Tivoli monitoring
+Load Balancing	Elastic load balancing	Offers server-side load balancing. 	There are two levels of load balancing available :  DNS Level, Network level	 The IBM iFlow Director is designed to deliver high availability, scalability and lower cost of ownership for any application delivery
+Message Queues	Simple queue service	Pull push queues	Azure queues
+Service bus queues	Web sphere.
+Development Tools	AWS Management Console.
+AWS Toolkit for Eclipse.
+AWS Toolkit for Microsoft Visual Studio.
+Google Web Toolkit (GWT) Visualization Library. 
+Eclipse Rich AJAX Platform (RAP) Visualization Wrappers.
+Visual Studio tools.
+Azure SDK for .NET	RAD, RSA, RDA, RSM, RWD
+
+Integration with other services	Dynamo DB			
+Web APIs	REST API	Task queue REST API	ASP.net	Websphere cast iron live web API
+Programming Framework	Customizable linux based amazon machine image.	Python	Microsoft.net	Enterprise java platform.
+Pricing	Machine CPU	$0.085-3016 per hour	$0.10 per hour	$0.12 per hour	$0.30 per hour
+	Storage	$0.10 per GB per month	$0.15 per GB per month	$0.15 per GB per month	$0.1536per hour
+	I/O	$0.10 per million transactions.	$0.10 per hour		
+	Bandwidth	$0.10 per GB for incoming.
+$0.12 per GB for outgoing.	$0.10 per GB for incoming
+$0.12 per GB for outgoing
+	$0.10 per GB for incoming
+$0.15 per GB for outgoing	
+Cloud Computing Platforms Comparison
+
+
